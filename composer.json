@@ -1,5 +1,5 @@
 {
-    "name": "vmanrc/googleauthenticator",
+    "name": "phpgangsta/googleauthenticator",
     "description": "Google Authenticator 2-factor authentication",
     "version": "1.0.0",
     "type": "library",
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Voytek Manowiec",
-            "homepage": "https://github.com/vmanrc",
+            "homepage": "https://github.com/vmanrc"
         }
     ],
     "require": {
